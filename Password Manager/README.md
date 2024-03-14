@@ -4,3 +4,6 @@
 * The stored passwords are encripted using cryptography module.
 * The passwords that we save into password.txt file are acceessed by key 
 * When view input is given it accesses the key and returns a decrypted password and prints it using view function
+
+
+* The password.txt and key.key files are there for reference only new files will be created when script is running
